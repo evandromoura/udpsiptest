@@ -51,7 +51,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>EntryPoint</mainClass>
+                            <mainClass>UdpSIPTest</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

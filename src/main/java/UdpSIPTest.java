@@ -2,7 +2,12 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.util.Random;
-
+/**
+ * Classe que testa uma conexão SIP 
+ * 
+ * @author Evandro Moura
+ *
+ */
 public class UdpSIPTest {
 
 public static String checkSipUdp(String ipAddress, int outPort,String login)throws Exception{
